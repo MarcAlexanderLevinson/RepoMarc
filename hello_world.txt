@@ -1,7 +1,4 @@
-Lorem ipsum MARC
-MARC
-
-consectetuer adipiscing elit.
+sectetuer adipiscing elit.
 Aenean commodo ligula eget dolor. 
 Aenean massa.
 Cum sociis natoque penatibus et magnis dis parturient montes,
